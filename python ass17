@@ -1,0 +1,6 @@
+list=[2,3,6,5,46]
+sum=0
+for i in list:
+    if i%2==0:
+        sum=sum+i
+print('even sum is:',sum)
