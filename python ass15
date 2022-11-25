@@ -1,0 +1,6 @@
+list1=[2,3,4,56]
+a=int(input('Enter an element'))
+if a in list1:
+        print('Yes,elemet is found')
+else:
+        print("No,element is not found")
